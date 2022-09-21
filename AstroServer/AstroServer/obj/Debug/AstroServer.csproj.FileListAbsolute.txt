@@ -1,0 +1,21 @@
+C:\Users\P444025\Desktop\AstroServer\AstroServer\bin\Debug\AstroServer.exe.config
+C:\Users\P444025\Desktop\AstroServer\AstroServer\bin\Debug\AstroServer.exe
+C:\Users\P444025\Desktop\AstroServer\AstroServer\bin\Debug\AstroServer.pdb
+C:\Users\P444025\Desktop\AstroServer\AstroServer\bin\Debug\AstroMath.dll
+C:\Users\P444025\Desktop\AstroServer\AstroServer\bin\Debug\AstroMath.pdb
+C:\Users\P444025\Desktop\AstroServer\AstroServer\obj\Debug\AstroServer.csproj.AssemblyReference.cache
+C:\Users\P444025\Desktop\AstroServer\AstroServer\obj\Debug\AstroServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\P444025\Desktop\AstroServer\AstroServer\obj\Debug\AstroServer.csproj.CoreCompileInputs.cache
+C:\Users\P444025\Desktop\AstroServer\AstroServer\obj\Debug\AstroServer.csproj.CopyComplete
+C:\Users\P444025\Desktop\AstroServer\AstroServer\obj\Debug\AstroServer.exe
+C:\Users\P444025\Desktop\AstroServer\AstroServer\obj\Debug\AstroServer.pdb
+C:\Users\P444025\Desktop\12 09\AstroMath\AstroServer\AstroServer\bin\Debug\AstroServer.exe.config
+C:\Users\P444025\Desktop\12 09\AstroMath\AstroServer\AstroServer\bin\Debug\AstroServer.exe
+C:\Users\P444025\Desktop\12 09\AstroMath\AstroServer\AstroServer\bin\Debug\AstroServer.pdb
+C:\Users\P444025\Desktop\12 09\AstroMath\AstroServer\AstroServer\obj\Debug\AstroServer.csproj.AssemblyReference.cache
+C:\Users\P444025\Desktop\12 09\AstroMath\AstroServer\AstroServer\obj\Debug\AstroServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\P444025\Desktop\12 09\AstroMath\AstroServer\AstroServer\obj\Debug\AstroServer.csproj.CoreCompileInputs.cache
+C:\Users\P444025\Desktop\12 09\AstroMath\AstroServer\AstroServer\obj\Debug\AstroServer.csproj.CopyComplete
+C:\Users\P444025\Desktop\12 09\AstroMath\AstroServer\AstroServer\obj\Debug\AstroServer.exe
+C:\Users\P444025\Desktop\12 09\AstroMath\AstroServer\AstroServer\obj\Debug\AstroServer.pdb
+C:\Users\P444025\Desktop\12 09\AstroMath\AstroServer\AstroServer\bin\Debug\AstroMath.dll

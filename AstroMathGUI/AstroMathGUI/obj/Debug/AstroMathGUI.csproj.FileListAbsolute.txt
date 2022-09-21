@@ -1,0 +1,61 @@
+C:\Users\P444025\Source\Repos\AstroMathGUI\AstroMathGUI\bin\Debug\AstroMathGUI.exe.config
+C:\Users\P444025\Source\Repos\AstroMathGUI\AstroMathGUI\bin\Debug\AstroMathGUI.exe
+C:\Users\P444025\Source\Repos\AstroMathGUI\AstroMathGUI\bin\Debug\AstroMathGUI.pdb
+C:\Users\P444025\Source\Repos\AstroMathGUI\AstroMathGUI\obj\Debug\AstroMathGUI.csproj.AssemblyReference.cache
+C:\Users\P444025\Source\Repos\AstroMathGUI\AstroMathGUI\obj\Debug\AstroMathGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\P444025\Source\Repos\AstroMathGUI\AstroMathGUI\obj\Debug\AstroMathGUI.AstroMathGUI.resources
+C:\Users\P444025\Source\Repos\AstroMathGUI\AstroMathGUI\obj\Debug\AstroMathGUI.Properties.Resources.resources
+C:\Users\P444025\Source\Repos\AstroMathGUI\AstroMathGUI\obj\Debug\AstroMathGUI.csproj.GenerateResource.cache
+C:\Users\P444025\Source\Repos\AstroMathGUI\AstroMathGUI\obj\Debug\AstroMathGUI.csproj.CoreCompileInputs.cache
+C:\Users\P444025\Source\Repos\AstroMathGUI\AstroMathGUI\obj\Debug\AstroMathGUI.exe
+C:\Users\P444025\Source\Repos\AstroMathGUI\AstroMathGUI\obj\Debug\AstroMathGUI.pdb
+C:\Users\P444025\Source\Repos\AstroMathGUI\AstroMathGUI\bin\Debug\de\AstroMathGUI.resources.dll
+C:\Users\P444025\Source\Repos\AstroMathGUI\AstroMathGUI\bin\Debug\fr\AstroMathGUI.resources.dll
+C:\Users\P444025\Source\Repos\AstroMathGUI\AstroMathGUI\obj\Debug\AstroMathGUI.AstroMathGUI.de.resources
+C:\Users\P444025\Source\Repos\AstroMathGUI\AstroMathGUI\obj\Debug\AstroMathGUI.AstroMathGUI.fr.resources
+C:\Users\P444025\Source\Repos\AstroMathGUI\AstroMathGUI\obj\Debug\de\AstroMathGUI.resources.dll
+C:\Users\P444025\Source\Repos\AstroMathGUI\AstroMathGUI\obj\Debug\fr\AstroMathGUI.resources.dll
+C:\Users\P444025\Source\Repos\AstroMathGUI\AstroMathGUI\bin\Debug\fr-DZ\AstroMathGUI.resources.dll
+C:\Users\P444025\Source\Repos\AstroMathGUI\AstroMathGUI\obj\Debug\AstroMathGUI.AstroMathGUI.fr-DZ.resources
+C:\Users\P444025\Source\Repos\AstroMathGUI\AstroMathGUI\obj\Debug\fr-DZ\AstroMathGUI.resources.dll
+C:\Users\P444025\Downloads\AstroMath\AstroMathGUI\AstroMathGUI\bin\Debug\AstroMathGUI.exe.config
+C:\Users\P444025\Downloads\AstroMath\AstroMathGUI\AstroMathGUI\bin\Debug\AstroMathGUI.exe
+C:\Users\P444025\Downloads\AstroMath\AstroMathGUI\AstroMathGUI\bin\Debug\AstroMathGUI.pdb
+C:\Users\P444025\Downloads\AstroMath\AstroMathGUI\AstroMathGUI\bin\Debug\de\AstroMathGUI.resources.dll
+C:\Users\P444025\Downloads\AstroMath\AstroMathGUI\AstroMathGUI\bin\Debug\fr-DZ\AstroMathGUI.resources.dll
+C:\Users\P444025\Downloads\AstroMath\AstroMathGUI\AstroMathGUI\bin\Debug\fr\AstroMathGUI.resources.dll
+C:\Users\P444025\Downloads\AstroMath\AstroMathGUI\AstroMathGUI\obj\Debug\AstroMathGUI.csproj.AssemblyReference.cache
+C:\Users\P444025\Downloads\AstroMath\AstroMathGUI\AstroMathGUI\obj\Debug\AstroMathGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\P444025\Downloads\AstroMath\AstroMathGUI\AstroMathGUI\obj\Debug\AstroMathGUI.AstroMathGUI.resources
+C:\Users\P444025\Downloads\AstroMath\AstroMathGUI\AstroMathGUI\obj\Debug\AstroMathGUI.Properties.Resources.resources
+C:\Users\P444025\Downloads\AstroMath\AstroMathGUI\AstroMathGUI\obj\Debug\AstroMathGUI.AstroMathGUI.de.resources
+C:\Users\P444025\Downloads\AstroMath\AstroMathGUI\AstroMathGUI\obj\Debug\AstroMathGUI.AstroMathGUI.fr-DZ.resources
+C:\Users\P444025\Downloads\AstroMath\AstroMathGUI\AstroMathGUI\obj\Debug\AstroMathGUI.AstroMathGUI.fr.resources
+C:\Users\P444025\Downloads\AstroMath\AstroMathGUI\AstroMathGUI\obj\Debug\AstroMathGUI.csproj.GenerateResource.cache
+C:\Users\P444025\Downloads\AstroMath\AstroMathGUI\AstroMathGUI\obj\Debug\AstroMathGUI.csproj.CoreCompileInputs.cache
+C:\Users\P444025\Downloads\AstroMath\AstroMathGUI\AstroMathGUI\obj\Debug\de\AstroMathGUI.resources.dll
+C:\Users\P444025\Downloads\AstroMath\AstroMathGUI\AstroMathGUI\obj\Debug\fr-DZ\AstroMathGUI.resources.dll
+C:\Users\P444025\Downloads\AstroMath\AstroMathGUI\AstroMathGUI\obj\Debug\fr\AstroMathGUI.resources.dll
+C:\Users\P444025\Downloads\AstroMath\AstroMathGUI\AstroMathGUI\obj\Debug\AstroMathGUI.exe
+C:\Users\P444025\Downloads\AstroMath\AstroMathGUI\AstroMathGUI\obj\Debug\AstroMathGUI.pdb
+C:\Users\P444025\Desktop\12 09\AstroMath\AstroMathGUI\AstroMathGUI\bin\Debug\AstroMathGUI.exe.config
+C:\Users\P444025\Desktop\12 09\AstroMath\AstroMathGUI\AstroMathGUI\bin\Debug\AstroMathGUI.exe.manifest
+C:\Users\P444025\Desktop\12 09\AstroMath\AstroMathGUI\AstroMathGUI\bin\Debug\AstroMathGUI.application
+C:\Users\P444025\Desktop\12 09\AstroMath\AstroMathGUI\AstroMathGUI\bin\Debug\AstroMathGUI.exe
+C:\Users\P444025\Desktop\12 09\AstroMath\AstroMathGUI\AstroMathGUI\bin\Debug\AstroMathGUI.pdb
+C:\Users\P444025\Desktop\12 09\AstroMath\AstroMathGUI\AstroMathGUI\bin\Debug\de\AstroMathGUI.resources.dll
+C:\Users\P444025\Desktop\12 09\AstroMath\AstroMathGUI\AstroMathGUI\bin\Debug\fr\AstroMathGUI.resources.dll
+C:\Users\P444025\Desktop\12 09\AstroMath\AstroMathGUI\AstroMathGUI\obj\Debug\AstroMathGUI.csproj.AssemblyReference.cache
+C:\Users\P444025\Desktop\12 09\AstroMath\AstroMathGUI\AstroMathGUI\obj\Debug\AstroMathGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\P444025\Desktop\12 09\AstroMath\AstroMathGUI\AstroMathGUI\obj\Debug\AstroMathGUI.AstroMathGUI.resources
+C:\Users\P444025\Desktop\12 09\AstroMath\AstroMathGUI\AstroMathGUI\obj\Debug\AstroMathGUI.Properties.Resources.resources
+C:\Users\P444025\Desktop\12 09\AstroMath\AstroMathGUI\AstroMathGUI\obj\Debug\AstroMathGUI.AstroMathGUI.de.resources
+C:\Users\P444025\Desktop\12 09\AstroMath\AstroMathGUI\AstroMathGUI\obj\Debug\AstroMathGUI.AstroMathGUI.fr.resources
+C:\Users\P444025\Desktop\12 09\AstroMath\AstroMathGUI\AstroMathGUI\obj\Debug\AstroMathGUI.csproj.GenerateResource.cache
+C:\Users\P444025\Desktop\12 09\AstroMath\AstroMathGUI\AstroMathGUI\obj\Debug\AstroMathGUI.csproj.CoreCompileInputs.cache
+C:\Users\P444025\Desktop\12 09\AstroMath\AstroMathGUI\AstroMathGUI\obj\Debug\de\AstroMathGUI.resources.dll
+C:\Users\P444025\Desktop\12 09\AstroMath\AstroMathGUI\AstroMathGUI\obj\Debug\fr\AstroMathGUI.resources.dll
+C:\Users\P444025\Desktop\12 09\AstroMath\AstroMathGUI\AstroMathGUI\obj\Debug\AstroMathGUI.exe.manifest
+C:\Users\P444025\Desktop\12 09\AstroMath\AstroMathGUI\AstroMathGUI\obj\Debug\AstroMathGUI.application
+C:\Users\P444025\Desktop\12 09\AstroMath\AstroMathGUI\AstroMathGUI\obj\Debug\AstroMathGUI.exe
+C:\Users\P444025\Desktop\12 09\AstroMath\AstroMathGUI\AstroMathGUI\obj\Debug\AstroMathGUI.pdb
